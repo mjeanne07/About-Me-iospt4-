@@ -14,8 +14,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    sayHi ()
+       print("hi my name is morgan.")
+  
     }
     func sayHi () {
         print("say hi")
