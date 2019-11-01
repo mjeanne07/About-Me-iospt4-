@@ -14,7 +14,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       print("hi my name is morgan.")
+        self.view.backgroundColor = .blue
   
     }
     func sayHi () {
